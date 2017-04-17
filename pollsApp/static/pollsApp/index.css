@@ -1,0 +1,23 @@
+body{
+    margin: auto; 
+    display: block;
+    text-align: center; 
+    margin-top: 20pt;
+}
+
+.list{
+    background-color: #D3D3D3;
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+
+input{
+    background-color: #D3D3D3;
+    color: red;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
